@@ -1,1 +1,0 @@
-g++ main.cc Geometry.cc Fluid_class.cc -lGL -lGLU -lglut -o flow_around_square_P
