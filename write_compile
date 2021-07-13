@@ -1,1 +1,0 @@
-g++ write.cc Geometry.cc Fluid_class.cc -lGL -lGLU -lglut -o exec_write
