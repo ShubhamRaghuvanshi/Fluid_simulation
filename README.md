@@ -18,3 +18,5 @@ pressure corrector, and voritcity stream function approach. Some attached exampl
 
 ![alt text](img5.png)
 
+Videos for all of the simulations can be found at the folliwing [link](https://www.youtube.com/watch?v=O6RVwUqRKgg&list=PLEsVP16ISIIfqyjLCz_KEWRjRfS9omDGU)
+
